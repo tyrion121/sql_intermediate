@@ -1,2 +1,0 @@
-# sql_intermediate
-sql_intermediate_lessons_by_mode
