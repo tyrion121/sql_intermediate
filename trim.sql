@@ -3,27 +3,3 @@ trim ( leading'('FROM left (location , position(' ' in location) -2)) AS LATITUD
 trim ( TRAILING')'FROM RIGHT(location , length(location) -((position(' ' in location) -2)+1))) AS longitude 
 FROM CRIME_IN_INDIA;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
